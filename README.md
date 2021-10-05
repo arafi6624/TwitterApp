@@ -24,5 +24,6 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://i.imgur.com/UwwprDV.gif)
+<img src="/Users/abdulrafi/Downloads/ezgif.com-gif-maker(3).gif">
 
 
